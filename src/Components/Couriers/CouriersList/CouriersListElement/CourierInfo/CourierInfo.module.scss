@@ -1,0 +1,36 @@
+.infoContainer {
+
+}
+.singleRow {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    border-bottom: 1px dotted lightgray;
+    .singleRowKey {
+        width: 300px;
+        font-size: 14px;
+        font-weight: 700;
+        color: #6C6C6C;
+    }
+    .singleRowValue {
+        width: 260px;
+        font-size: 14px;
+        font-weight: 700;
+        text-align: right;
+    }
+}
+.centerText {
+    width: 250px;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+}
+.noUnderline {
+    border-bottom: none;
+}
+.textGreen {
+    color: #008000;
+}
+.textRed {
+    color: #FF0000;
+}

@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiDataGrid-cell[data-value="Rozwiązane"] {
+  color: green;
+}
+.MuiDataGrid-cell[data-value="Oczekujące"] {
+  color: red;
+}
+.MuiDataGrid-cell[data-value="Przypisane"] {
+  color: #E8A317;
+}

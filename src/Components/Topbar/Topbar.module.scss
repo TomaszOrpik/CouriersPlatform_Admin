@@ -1,0 +1,58 @@
+.topNavigation {
+    width: calc(100vw - 77px);
+    height: 70px;
+    background-color: white;
+    border-bottom: 2px solid #B7B7B7;
+}
+.menu {
+    list-style-type: none;
+    padding-left: 0;
+}
+.customLinkContainer {
+    width: 100px;
+    height: 100px;
+}
+.customLink {
+    text-decoration: none;
+    color: black;
+    line-height: 75px;
+    margin-left: 25px;
+    :hover {
+        color: #287cfb;
+    }
+}
+.active {
+    color: #287cfb;
+}
+.topNavigation {
+    display: flex;
+    flex-direction: row;
+}
+
+.regionSelection {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    vertical-align: center;
+    .regionSelectionLabel {
+        font-size: 22px;
+        color: #6C6C6C;
+        margin-right: 20px;
+        line-height: 50px;
+    }
+}
+.regionSelectionControl {
+    width: 250px;
+}
+.logOutIcon {
+    line-height: 50px;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 60px;
+    :hover {
+        color: #287cfb;
+    }
+}

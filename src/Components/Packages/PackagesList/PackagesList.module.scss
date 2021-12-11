@@ -1,0 +1,117 @@
+.packagesListContainer {
+    width: 100%;
+    height: 100%;
+}
+.inputsContainer {
+    background-color: white;
+    border-radius: 15px;
+}
+.flexRow {
+    display: flex;
+    flex-direction: row;
+}
+.flexRowLast {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.packageIdInput {
+    margin-left: 10% !important;
+    margin-top: 20px !important;
+}
+.packageFilter {
+    margin-right: 25% !important;
+}
+.dateInput {
+    margin-top: 20px !important;
+    margin-left: auto !important;
+    margin-right: 5% !important;
+}
+.senderFilter {
+    margin-right: 25% !important;
+}
+.senderInput {
+    margin-top: 20px !important;
+    margin-left: 5% !important;
+}
+.receiverInput {
+    margin-top: 20px !important;
+    margin-left: auto !important;
+    margin-right: 10% !important;
+}
+.hourInput {
+    width: 200px;
+    margin-top: 20px !important;
+    margin-left: 10% !important;
+}
+.timeFilter {
+    margin-right: 25% !important;
+}
+.statusInputFilter {
+    width: 250px;
+    background-color: white;
+    margin-top: 20px !important;
+    margin-left: auto !important;
+    margin-right: 6% !important;
+}
+.accordionContainer {
+    overflow-y: scroll;
+}
+
+.listHeaderLeft {
+    font-size: 18px;
+    font-weight: 700;
+    color: #6C6C6C;
+    margin-right: 10px;
+}
+.listHeaderRight {
+    font-size: 18px;
+    font-weight: 500;
+}
+.listHeaderRightActive {
+    font-size: 18px;
+    font-weight: 500;
+    color: #287cfb;
+}
+.packageDetailsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.senderContainer {
+    width: 33%;
+    margin-left: auto;
+}
+.receiverContainer {
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.additionalInfoContainer {
+    width: 33%;
+    margin-right: auto;
+}
+.textHeader {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #6C6C6C;
+}
+.textBody {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+.textLeft {
+    margin-left: 20px;
+    text-align: left !important;
+}
+.textBodyRed {
+    color: red;
+}
+.textBodyYellow {
+    color: #E8A317;
+}
+.textBodyGreen {
+    color: green;
+}

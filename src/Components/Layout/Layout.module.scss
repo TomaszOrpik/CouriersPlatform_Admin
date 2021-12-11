@@ -1,0 +1,14 @@
+.appBody {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+}
+.pages {
+  width: calc(100vw - 77px);
+  height: calc(100vh - 87px);
+}
+.pageFull {
+  width: 100vw;
+  height: 100vh;
+}
