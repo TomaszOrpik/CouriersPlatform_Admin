@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CouriersPlatform_Admin/static/css/main.5cde756c.chunk.css",
-    "main.js": "/CouriersPlatform_Admin/static/js/main.3c5018c5.chunk.js",
-    "main.js.map": "/CouriersPlatform_Admin/static/js/main.3c5018c5.chunk.js.map",
+    "main.js": "/CouriersPlatform_Admin/static/js/main.8bfdc426.chunk.js",
+    "main.js.map": "/CouriersPlatform_Admin/static/js/main.8bfdc426.chunk.js.map",
     "runtime-main.js": "/CouriersPlatform_Admin/static/js/runtime-main.30f61a4a.js",
     "runtime-main.js.map": "/CouriersPlatform_Admin/static/js/runtime-main.30f61a4a.js.map",
     "static/css/2.f9fdc0a8.chunk.css": "/CouriersPlatform_Admin/static/css/2.f9fdc0a8.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.f9fdc0a8.chunk.css",
     "static/js/2.8e822bb3.chunk.js",
     "static/css/main.5cde756c.chunk.css",
-    "static/js/main.3c5018c5.chunk.js"
+    "static/js/main.8bfdc426.chunk.js"
   ]
 }
