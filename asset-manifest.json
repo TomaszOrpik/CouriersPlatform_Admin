@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CouriersPlatform_Admin/static/css/main.5cde756c.chunk.css",
+    "main.js": "/CouriersPlatform_Admin/static/js/main.c5e44f01.chunk.js",
+    "main.js.map": "/CouriersPlatform_Admin/static/js/main.c5e44f01.chunk.js.map",
+    "runtime-main.js": "/CouriersPlatform_Admin/static/js/runtime-main.30f61a4a.js",
+    "runtime-main.js.map": "/CouriersPlatform_Admin/static/js/runtime-main.30f61a4a.js.map",
+    "static/css/2.f9fdc0a8.chunk.css": "/CouriersPlatform_Admin/static/css/2.f9fdc0a8.chunk.css",
+    "static/js/2.8e822bb3.chunk.js": "/CouriersPlatform_Admin/static/js/2.8e822bb3.chunk.js",
+    "static/js/2.8e822bb3.chunk.js.map": "/CouriersPlatform_Admin/static/js/2.8e822bb3.chunk.js.map",
+    "static/js/3.eedc8556.chunk.js": "/CouriersPlatform_Admin/static/js/3.eedc8556.chunk.js",
+    "static/js/3.eedc8556.chunk.js.map": "/CouriersPlatform_Admin/static/js/3.eedc8556.chunk.js.map",
+    "index.html": "/CouriersPlatform_Admin/index.html",
+    "static/css/2.f9fdc0a8.chunk.css.map": "/CouriersPlatform_Admin/static/css/2.f9fdc0a8.chunk.css.map",
+    "static/css/main.5cde756c.chunk.css.map": "/CouriersPlatform_Admin/static/css/main.5cde756c.chunk.css.map",
+    "static/js/2.8e822bb3.chunk.js.LICENSE.txt": "/CouriersPlatform_Admin/static/js/2.8e822bb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30f61a4a.js",
+    "static/css/2.f9fdc0a8.chunk.css",
+    "static/js/2.8e822bb3.chunk.js",
+    "static/css/main.5cde756c.chunk.css",
+    "static/js/main.c5e44f01.chunk.js"
+  ]
+}
