@@ -29,11 +29,7 @@ function CourierInfo(props: IProps) {
         <div className={styles.singleRow}>
           <div className={styles.singleRowKey}>Rozpoczęcie:</div>
           <div className={styles.singleRowValue}>
-            {props.courier.startTime !== "" ? `${new Date(props.courier.startTime).getHours().toString().padStart(2, "0")}
-                  :${new Date(props.courier.startTime)
-                .getMinutes()
-                .toString()
-                .padStart(2, "0")}` : '00:00'}
+            {props.courier.startTime !== "" ? `${props.courier.startTime}` : '00:00'}
           </div>
         </div>
         <div className={styles.singleRow}>
