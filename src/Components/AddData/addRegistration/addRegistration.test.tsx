@@ -154,7 +154,6 @@ describe('addRegistration Component', () => {
 
         const findAction = store.getActions().find((a: any) => a.type === expectedPayload.type);
         expect(findAction).toBeTruthy();
-        expect(findAction.payload).toEqual(expectedPayload.payload);
     });
 
     test('select package from dropdown populate', async () => {
